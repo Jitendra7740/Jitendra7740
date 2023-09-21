@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jitendra7740
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Python and HTML
+- 👀 I’m interested in Software Development Engineering
 - 📫 How to reach me through Linkedin - https://www.linkedin.com/in/jitendrakumarpandit/
 
 <!---
